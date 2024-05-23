@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @algo-tushar
 - 👀 I’m interested in programming(Js, PHP, Java, Python), Developing ML models, Experimenting new ideas
-- 🌱 I’m currently learning API development
+- 🌱 I’m currently try to learning develop own payment interface/gateway
 - 📫 How to reach me [tushar.abubakar@gmail.com](mailto:tushar.abubakar@gmail.com)
